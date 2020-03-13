@@ -1,0 +1,23 @@
+.editionBody {
+  text-align: center;
+  font-family: "Ubuntu";
+  font-weight: 400;
+}
+.editionSelector {
+  margin-bottom: 3%;
+  text-align: center;
+}
+.container-fluid {
+  padding: 7% 15%;
+}
+.editionHeading {
+  font-size: 3rem;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: 1.5;
+  padding-bottom: 3%;
+}
+.editionSubheading {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
